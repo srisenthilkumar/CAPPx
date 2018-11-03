@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# output of ffmpeg
+*.mkv
+*.mov
+*.mp4
+
+# OS back up files
+.DS_Store

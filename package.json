@@ -1,0 +1,23 @@
+{
+  "name": "CAPPx",
+  "version": "1.0.0",
+  "description": "A simple screen recorder",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/srisenthilkumar/pachak.git",
+  "keywords": [
+    "Electron",
+    "ffmpeg",
+    "screen recorder",
+    "video editor",
+    "audio recorder"
+  ],
+  "author": "Srisenthilkumar",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.4"
+  },
+  "dependencies": {}
+}
