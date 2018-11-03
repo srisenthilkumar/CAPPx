@@ -1,7 +1,14 @@
 # CAPPx
-A simple screen recorder with lot more features
+A simple tool to **Cap**ture the **P**i**x**les with lot more features
 
 > WIP :articulated_lorry:
+
+## To Run
+
+```
+npm install
+npm start
+```
 
 ### Test Commands
 
