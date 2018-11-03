@@ -1,12 +1,13 @@
 # CAPPx
 A simple screen recorder with lot more features
 
+> WIP :articulated_lorry:
 
 ### Test Commands
 
 ```
 ffmpeg -f avfoundation -list_devices true -i ""
-ffmpeg -f avfoundation -i "0x7fc291410180:0x7fc291410180" output.mkv
+ffmpeg -f avfoundation -i "0:0" output.mkv
 ```
 
 ## Tech stack
@@ -17,6 +18,12 @@ ffmpeg -f avfoundation -i "0x7fc291410180:0x7fc291410180" output.mkv
 
 ## References
 - https://trac.ffmpeg.org/wiki/Capture/Desktop
+- https://www.ffmpeg.org/ffmpeg-devices.html#avfoundation
+- https://www.ffmpeg.org/ffmpeg-devices.html
+- https://nodejs.org/dist/latest-v10.x/docs/api/child_process.html
+- https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
+- http://dranger.com/ffmpeg/
+- https://ffmpeg.org/documentation.html
 
 ## Problems
 
