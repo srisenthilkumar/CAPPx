@@ -1,5 +1,5 @@
 # CAPPx
-A simple tool to **Cap**ture the **P**i**x**les with lot more features
+A simple tool to **Cap**ture the **P**i**x**les
 
 > WIP :articulated_lorry:
 
